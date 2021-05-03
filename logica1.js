@@ -117,7 +117,7 @@ console.log(ex3([1,2, '', undefined]));
 console.log(ex4([["c",2],["d",4]]));
 console.log(ex5([5,4,3,2,5],5,3));
 console.log(ex6([1, 2, 3, 3, 2, 4, 5, 4, 7, 3]));
-console.log(ex7([1, 2, 3, 4], [1, 2, 3, 4, 5,]));
+console.log(ex7([1, 2, 3, 4], [1, 2, 3, 4]));
 console.log(ex9([1, 2, 3, 4, 5], 2));
 console.log(ex10([6, 8], [8, 9]));
 
